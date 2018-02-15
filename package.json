@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:gcangela/indecision-app.git",
-  "author": "Papadois",
+  "author": "Giancarlo Angela",
   "license": "MIT",
   "scripts": {
     "live-server": "live-server public",
